@@ -1,0 +1,13 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Popular Movies</string>
+    <string name="main_activity_favorites_label">Favorite Movies</string>
+    <string name="main_activity_voted_label">Most Voted Movies</string>
+    <string name="details_activity_label">Movie Details</string>
+    <string name="action_sort_by_popularity">MOST POPULAR</string>
+    <string name="action_sort_by_vote">MOST VOTED</string>
+    <string name="action_sort_by_favorites">FAVORITES</string>
+    <string name="details_actiity_trailers_title">TRAILERS</string>
+    <string name="details_actiity_reviews_title">REVIEWS</string>
+    <string name="no_favorites_found_dialog_OK">OK</string>
+    <string name="no_favorites_found_error">No favorites found. Please add your favorite movie</string>
+</resources>
